@@ -43,8 +43,8 @@ My local repository is now connected to GitHub:
 - Repository URL: https://github.com/nnineeight/py4eda-work
 
 - Output of `git remote -v`: 
-origin  https://github.com/olearydj/INSY6500 (fetch)
-origin  https://github.com/olearydj/INSY6500 (push)
+origin  https://github.com/nnineeight/INSY6500 (fetch)
+origin  https://github.com/nnineeight/INSY6500 (push)
 
 - The output of `git log --oneline`:
 91f0b1a (HEAD -> master, origin/master) Remove wrong file named h3a-solution.md
