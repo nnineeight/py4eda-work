@@ -167,8 +167,9 @@ I will try to develop some habits from now such as, updating README files immedi
 history clean and meaningful, frequent use of Git commands to get used to, regular push and pull to keep my work always updated.
 
 
-#### GenAI Disclosure
+## Generative AI Disclosure
 
 I have used Generative AI (ChatGPT 5 Thinking) for assistance during this assignment. Instead of using it answering questions, I
 used this tool to learn things about Git that I did not know earlier. No answer in this assignment is copied or generated using 
 Generative AI tool.
+
